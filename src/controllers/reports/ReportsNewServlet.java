@@ -24,7 +24,6 @@ public class ReportsNewServlet extends HttpServlet {
      */
     public ReportsNewServlet() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     /**
