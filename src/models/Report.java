@@ -55,7 +55,7 @@ public class Report {
     @Column(name = "leaving_time", nullable = false)
     private Time leaving_time;
 
-    @Column(name = "", length = 255, nullable = false)
+    @Column(name = "title", length = 255, nullable = false)
     private String title;
 
     @Lob
